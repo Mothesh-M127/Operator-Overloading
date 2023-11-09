@@ -22,8 +22,8 @@ print the program.
 
  ## Program:
  ```
-Developed by : VIDYA NEELA M
-Reg no : 212221230120
+Developed by : Mothesh M
+Reg no : 212221230066
 ```
  ```
 using System;
